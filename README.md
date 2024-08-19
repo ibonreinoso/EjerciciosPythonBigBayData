@@ -1,4 +1,5 @@
-![bigbaydata]([http://url/to/img.png](https://www.bigbaydata.com/wp-content/uploads/2023/10/bigbaydata.webp))
+![bigbaydata](https://www.bigbaydata.com/wp-content/uploads/2023/10/bigbaydata.webp)
+
 
 ## Ejercicios Python
 - Los ejercicios Python resueltos en formato PDF. Accede a toda la información y resúmenes en el enlace debajo:
